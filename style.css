@@ -6,7 +6,7 @@
 
 .sidebar {
   flex: 1; /* Takes up 1 part of the space */
-  background-color: #f4f4f4;
+  background-color: #2c2c2c;
   padding: 20px;
   overflow-y: auto; /* Allows scrolling if there are many items */
 }
@@ -18,7 +18,7 @@
 .main-content {
   flex: 3; /* Takes up 3 parts of the space, making it wider */
   padding: 20px;
-  background-color: #fff;
+  background-color: #0e0e0e;
 }
 
 /* Basic styling for the video container */
