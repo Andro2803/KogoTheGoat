@@ -10,8 +10,20 @@
             si: '9BJekO8qRCocBppI'
         },
         '0G4ucwMuKyg': {
-            title: '00:36 Attempt 🥈',
+            title: '00:36 Billy 🥈',
             si: 'NU8PPWV3iaEi1YhJ'
+        },
+        'vQizXznRSVg': {
+            title: '1:03 Paradox 🥉',
+            si: '9BQ6-0h9gI8dYxEb'
+        },
+        'EWsbC-aDrOo': {
+            title: '3 Deaths in 3:03 min 🐐',
+            si: '5Nf2NAi-7Ua8DJNG'
+        },
+        'ztekGcvqdLI': {
+            title: '3 Deaths in 3:34 min 🐐',
+            si: 'FYFD9PIRzGJ3C83M'
         }
     };
 
